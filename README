@@ -9,10 +9,10 @@
    ```bash
    cd "C:\path\to\your\repository"
 
-4. Check the status using "git status" command
-5. Write "git add "Name of the file.jl""
-6. "git commit -m "Message you want to provide(what you have changed in the code)""
-7. "git push origin main"
+4. Check the status using `git status` command
+5. Write `git add "Name of the file.jl"`
+6. `git commit -m "Message you want to provide(what you have changed in the code)"`
+7. `git push origin main`
 8. Check the git if it has been uploaded
 
 That way we can see the changes made by other people and do not lose in different versions of the code.
